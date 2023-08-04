@@ -1,0 +1,2 @@
+add sth in function7
+add sth2 in function7
